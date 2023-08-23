@@ -74,7 +74,7 @@ const AttractionList = ({ navigate, attractions, startLocation, endLocation, hid
                     flexDirection: 'column', 
                     alignItems: 'center',
                     height: 'min-content' }}>
-                        <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontFamily: 'monospace', fontWeight: 700 }}>Select attractions</Typography>
+                {hideSave? null:<Typography variant="h6" component="div" sx={{ flexGrow: 1, fontFamily: 'monospace', fontWeight: 700 }}>Select attractions</Typography>}
                 {!hideSave? null: <h2 id="finalTripName"> Trip name : {savedTripName} </h2>}
                     <Box sx={{ mb: 2 }}>
                     <Typography variant="h5" className = "startLocation">Start location: {startLocation}</Typography>
