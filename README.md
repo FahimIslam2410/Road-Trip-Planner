@@ -1,3 +1,15 @@
+### Final Project for Makers Academy
+
+For our final project at Makers Academy, our team consisted of members like Denis, Usama, Liam, and me. We named our team "RoadJunkies." Our task was to transform an initial idea into a fully functional web app within a tight eight-day deadline. To kickstart our project, we began by brainstorming a variety of ideas for our web app, envisioning what users could do with it. We scribbled ideas on whiteboards, had discussions, and sketched out possible interactions, resulting in a comprehensive list of features we wanted to include.
+
+The concept was clear: our Road Trip Planner would allow users to input their starting location, destination, and any waypoints in between. In return, the site would provide a list of attractions ordered by their proximity to the starting point. Users could then select attractions they wished to visit. Importantly, they could save their routes within their user accounts, making it convenient for future trips.
+
+With this vision in mind, we set out to create our Minimum Viable Product (MVP). Users would begin by signing up, inputting their start and end locations, specifying waypoints, and then selecting their preferred attractions from the generated list. After submitting, the site would generate a list of selected attractions, enabling users to save the route and later view it on the "My Trips" page. Our goal was not just to build a great final project but also to ensure a smooth team process, understanding that both were equally important for a successful outcome and an enjoyable experience during these two weeks of hard work.
+
+### Our MVP Diagram
+
+![Untitled-2023-06-20-1012](https://github.com/FahimIslam2410/Road-Trip-Planner/assets/120402745/ae6b52ae-a424-44c5-9bb1-867b2b516ed9)
+
 
 ## Card wall
 https://trello.com/b/jioMjcB9/road-trip-planner
